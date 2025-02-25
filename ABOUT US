@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABOUT</title>
+</head>
+
+<body>
+     
+    <!-- About us section start-->
+<section class="about container-fluid">
+
+<div class="container">
+    <div class="row justify-content-center">
+
+<div class="col-sm-4">
+
+    <h1> ABOUT US </h1>
+    <h2> lets talk about DADJU </h2>
+       <p>
+          He is named Dadju Djuna Nsungula, who was born on May 2, 1991, in Melun, 
+          Île-de-France, France, into a musical family; his father, Djuna Djanana, 
+          was a Congolese vocalist, and his half-brother is Gims. He Began his music 
+          career in 2012 at the age of 21 years old as part of the duo The Shin Sekaï and 
+          he realesed mixtapes "The Shin Sekaï Vol. I" (2013) and "Volume II" (2014) with the duo. 
+          He had is best song that is "Reine" (2017), which reached number nine on French music charts. 
+          His current age is 33 years old. His fist album as Gentleman which he published in 2017 and the 
+          most recent album is Héritage with Tayc whom we will talk about letter.
+       </p>
+       <button class="btm">lets start</button>
+
+</div>
+
+     <div class="col-sm-5">
+        <div class="box">
+            <img src="" class="img-fluid" alt="">
+        </div>
+     </div>
+
+    </div>
+</div>
+
+      <h3> lets talk about Maitre Gims </h3>
+        <p> 
+            He is named Ganghi Alimasi Djuna, Born on May 6, 1986, in Kinshasa, DR Congo; 
+            moved to France during childhood, Known professionally as MAitre Gims and more recently just Gims 
+            (stylized in all caps), is a French-Congolese singer, rapper, producer, and songwriter
+             introduced him self in the world of music at the age of 16 years old and his carrer started when 
+             he joined the hip hop group Sexion d'Assaut in 2002.His first song was released early works with Sexion d'Assaut; solo EP 
+            "Ceux qui dorment les yeux ouverts" in 2006. In December he released a reissue titled Subliminal la face cachée. 
+            The album contained songs such as "J'me tire", "Bella" and "Zombie". From its first week of operation, the album certified platinum 
+            and would end up being double diamond disc for over 1 million in sales.[3] The album was a great success charting in France, 
+            Belgium as well as charting in Switzerland.His best song he had sing is "J'me tire" (2013), 
+            a hit from his debut solo album "Subliminal". His age he has currently is 38 years old.
+        </p>   
+
+    </div>
+    
+         <div class="col-sm-5">
+            <div class="box">
+                <img src="" class="img-fluid" alt="">
+            </div>
+         </div>
+    
+        </div>
+    </div>
+
+    <h3> lets talk about Tayc </h3>
+    <p> 
+        He is named Julien Franck Bouadjie Monono Kamgang, Born on May 2, 1996, in Marseille, France. Better known as Tayc is a French singer who 
+        launched his musical career in 2012 after relocating to Paris In February 2019, Tayc released debut album NYXIA[2] which reissued two more times with, 
+        the Tome II on 21 June 2019 Tome III on 13 December 2019 all under the title Nyxia. Tome II particularly concentrated on his Cameroonian roots. 
+        He featured songs from his triple album with a big concert in Trianon de Paris on 19 October 2019., he released two mixtapes and a number of singles. 
+        His second album called Fleur froide (2020) hit the charts which launched his international career. Tayc's latest release is called Fleur froide - Second état: 
+        la cristallisation (2021) accounts for various new singles as well as previous one from Fleur Froide. his first song is Tracks from "Alchemy" mixtape,
+        and the best of best he sang was "Le temps" (2020), which gained significant popularity. he started singing at the age of 21 years old and is currently 
+        at the age og 28 years old.
+
+    </p>   
+
+</div>
+
+     <div class="col-sm-5">
+        <div class="box">
+            <img src="" class="img-fluid" alt="">
+        </div>
+     </div>
+
+    </div>
+</div>
+
+<h3> lets talk about GAZO </h3>
+<p> 
+       he is name Ibrahima Diakité, who was born on August 5, 1994, in Châteauroux, France. known professionally as Gazo, is a prominent French rapper born on August 5, 1994, 
+       in Châteauroux, France. He is recognized for pioneering the drill music genre in France and has earned the moniker "The Prince of French Drill." he started at the age of 26 years.
+       his career start Gained attention with his "Drill FR" series in 2020 and has as first song "Drill FR 1" released in 2020. the best song he sang among all is "HAINE&SEX" featuring Tiakola (2021), 
+       which received widespread acclaim. he is currently 30 years old.
+</p>   
+
+</div>
+
+ <div class="col-sm-5">
+    <div class="box">
+        <img src="" class="img-fluid" alt="">
+    </div>
+ </div>
+
+</div>
+</div>
+
+</section>
+
+
+    <!-- About us end-->
+</body>
+</html>
